@@ -1,6 +1,6 @@
 'From Cuis7.1 [latest update: #6770] on 18 October 2024 at 9:47:01 am'!
 'Description '!
-!provides: 'Tests-JSON Extensions' 1 3!
+!provides: 'Tests-JSON Extensions' 1 1!
 !requires: 'JSON-Extensions' 1 1 nil!
 SystemOrganization addCategory: #'Tests-JSON Extensions'!
 

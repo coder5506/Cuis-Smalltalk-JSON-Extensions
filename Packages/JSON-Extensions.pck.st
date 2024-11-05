@@ -1,6 +1,6 @@
 'From Cuis7.1 [latest update: #6786] on 21 October 2024 at 11:03:43 am'!
 'Description Adds #asJsonObject conversion to map objects to a form that can be serialized as JSON, short of generating JSON strings.  This is sometimes useful in that the serializable objects can be further composed and manipulated, unlike opaque string representations.'!
-!provides: 'JSON-Extensions' 1 6!
+!provides: 'JSON-Extensions' 1 1!
 !requires: 'JSON' 1 26 nil!
 SystemOrganization addCategory: 'JSON-Extensions'!
 
